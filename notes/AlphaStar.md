@@ -1,3 +1,10 @@
+---
+tags: [drl]
+title: AlphaStar
+created: '2020-01-15T14:44:55.571Z'
+modified: '2020-01-15T14:48:31.370Z'
+---
+
 # AlphaStar
 
 ## citation
