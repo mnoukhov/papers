@@ -9,7 +9,7 @@ modified: '2020-01-15T20:46:46.974Z'
 
 # Building a Semantic Parser Overnight
 
-## overview 
+## overview
 - Berant and Liang (2014) showed semantic parsing via paraphrasing
 - This paper bootstraps the necessary text-to-parse dataset
   - define NL phrase for each predicate
@@ -49,7 +49,7 @@ modified: '2020-01-15T20:46:46.974Z'
 
 - AMT workers reformulate or say it is incomprehensible
 
-- *alternations of single phrases* 
+- *alternations of single phrases*
   - "author of article" -> "who wrote article"
 - *sublexical compositionality* multiple rules replaced with single word aka multiple rules replaced with single word
   - "parent of alice whose gender is female" -> "mother of alice"
@@ -58,7 +58,7 @@ modified: '2020-01-15T20:46:46.974Z'
 
 - string matching to find initial predicates $T(x)$
 - generate candidate logical forms with beam search (max 20)
-- log-linear model over features 
+- log-linear model over features
 - basic features match words and bigrams if aligned in PPDB
 - lexical features use Berkeley Aligner (Liang et al, 2006) to learn paraphrases e.g. "fewest" == "least number"
 
@@ -83,7 +83,7 @@ does the grammar construction account for all possible questions?
   - 20% relative time reference e.g. "next meeting"
   - 14% predicates not in grammar e.g. "agenda"
   - 2% unsupported calculations e.g. "free time"
-  - 26% out of scope 
+  - 26% out of scope
 - evaluate on remaining data
   - 46.3% accuracy
   - 84.2% *oracle accuracy*: correct answer was on final beam
