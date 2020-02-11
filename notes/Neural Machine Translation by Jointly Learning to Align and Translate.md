@@ -3,7 +3,7 @@ attachments: [1409.0473.pdf]
 tags: [arch, nlp]
 title: Neural Machine Translation by Jointly Learning to Align and Translate
 created: '2020-02-07T15:43:39.796Z'
-modified: '2020-02-08T00:48:05.725Z'
+modified: '2020-02-10T18:04:16.037Z'
 ---
 
 # Neural Machine Translation by Jointly Learning to Align and Translate
@@ -16,7 +16,7 @@ modified: '2020-02-08T00:48:05.725Z'
 ## attention
 - bidirectional RNN to encode source sentence to $h_1 \ldots h_T$
 - decoder's RNN state $s_{i-1}$ as query vector 
-- compute alignment b/w $h_j$ and $s_{i-1}$ using feedforward net $a$ 
+- concat $h_j$ and $s_{i-1}$ then pass through linear layer $a$ with `tanh` to get alignment/energy
 - softmax over alignment is the attention over $h$
 
 ## experiments
