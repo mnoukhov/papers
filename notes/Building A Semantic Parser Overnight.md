@@ -2,12 +2,12 @@
 attachments: [P15-1129.pdf]
 favorited: true
 tags: [nlp, semantic]
-title: Building a Semantic Parser Overnight
+title: Building A Semantic Parser Overnight
 created: '2020-01-14T22:59:28.444Z'
-modified: '2020-01-15T20:46:46.974Z'
+modified: '2020-02-16T20:26:44.432Z'
 ---
 
-# Building a Semantic Parser Overnight
+# Building A Semantic Parser Overnight
 
 ## overview
 - Berant and Liang (2014) showed semantic parsing via paraphrasing
