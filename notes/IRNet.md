@@ -1,9 +1,9 @@
 ---
 attachments: [1905.08205.pdf]
-tags: [nlp, semantic]
+tags: [nlp, semantic, sql]
 title: IRNet
 created: '2020-01-15T14:46:27.131Z'
-modified: '2020-02-19T22:02:28.818Z'
+modified: '2020-02-20T15:52:45.625Z'
 ---
 
 # IRNet
