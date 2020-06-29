@@ -1,3 +1,10 @@
+---
+tags: [emergent]
+title: Biases for Emergent Communication in Multi-agent Reinforcement Learning
+created: '2020-06-11T16:23:40.601Z'
+modified: '2020-06-17T19:39:54.825Z'
+---
+
 # Biases for Emergent Communication in Multi-agent Reinforcement Learning
 
 ## overview
