@@ -1,3 +1,10 @@
+---
+tags: [marl]
+title: Pommerman
+created: '2020-01-15T04:40:29.334Z'
+modified: '2020-09-08T19:37:06.418Z'
+---
+
 # Pommerman
 
 ## citation

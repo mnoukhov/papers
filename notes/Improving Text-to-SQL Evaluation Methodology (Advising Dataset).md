@@ -1,12 +1,12 @@
 ---
 attachments: [1806.09029.pdf]
 tags: [nlp, semantic, sql, unread]
-title: (Advising) Improving Text-to-SQL Evaluation Methodology
+title: Improving Text-to-SQL Evaluation Methodology (Advising Dataset)
 created: '2020-02-20T15:50:50.764Z'
-modified: '2020-02-20T15:52:28.450Z'
+modified: '2020-09-08T19:37:32.904Z'
 ---
 
-# (Advising) Improving Text-to-SQL Evaluation Methodology
+# Improving Text-to-SQL Evaluation Methodology (Advising Dataset) 
 
 
 

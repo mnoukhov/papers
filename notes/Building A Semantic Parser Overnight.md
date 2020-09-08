@@ -1,10 +1,9 @@
 ---
 attachments: [P15-1129.pdf]
-favorited: true
 tags: [nlp, semantic]
 title: Building A Semantic Parser Overnight
 created: '2020-01-14T22:59:28.444Z'
-modified: '2020-02-16T20:26:44.432Z'
+modified: '2020-09-08T19:37:46.535Z'
 ---
 
 # Building A Semantic Parser Overnight
