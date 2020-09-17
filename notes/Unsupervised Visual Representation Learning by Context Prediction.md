@@ -3,7 +3,7 @@ attachments: [Clipboard_2020-09-08-15-43-07.png, Clipboard_2020-09-08-16-01-02.p
 tags: [self-supervised, vision]
 title: Unsupervised Visual Representation Learning by Context Prediction
 created: '2020-09-08T19:34:30.801Z'
-modified: '2020-09-08T22:06:34.570Z'
+modified: '2020-09-10T22:17:26.932Z'
 ---
 
 # Unsupervised Visual Representation Learning by Context Prediction
@@ -81,7 +81,7 @@ Filtering Pascal images to image bounding boxes
 @inproceedings{doersch2015unsupervised,
 	title="Unsupervised Visual Representation Learning by Context Prediction",
 	author="Carl {Doersch} and Abhinav {Gupta} and Alexei A. {Efros}",
-	booktitle="2015 IEEE International Conference on Computer Vision (ICCV)",
+	booktitle="IEEE International Conference on Computer Vision (ICCV)",
 	pages="1422--1430",
 	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/343636949",
 	year="2015"

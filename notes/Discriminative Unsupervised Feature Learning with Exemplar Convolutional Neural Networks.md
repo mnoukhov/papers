@@ -2,7 +2,7 @@
 tags: [self-supervised, vision]
 title: Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
 created: '2020-09-08T14:45:55.687Z'
-modified: '2020-09-08T21:17:14.133Z'
+modified: '2020-09-10T22:17:48.037Z'
 ---
 
 # Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks
@@ -138,7 +138,7 @@ Exemplar CNN and Information Maximization (2017)
 @incollection{NIPS2014_5548,
   title = {Discriminative Unsupervised Feature Learning with Convolutional Neural Networks},
   author = {Dosovitskiy, Alexey and Springenberg, Jost Tobias and Riedmiller, Martin and Brox, Thomas},
-  booktitle = {Advances in Neural Information Processing Systems 27},
+  booktitle = {Advances in Neural Information Processing Systems},
   editor = {Z. Ghahramani and M. Welling and C. Cortes and N. D. Lawrence and K. Q. Weinberger},
   pages = {766--774},
   year = {2014},
