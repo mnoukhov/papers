@@ -1,9 +1,9 @@
 ---
 attachments: [Clipboard_2020-09-21-21-59-46.png]
-tags: [self-supervised]
+tags: [self-supervised, vision]
 title: 'A critical analysis of self-supervision, or what we can learn from a single image'
 created: '2020-09-22T01:22:32.913Z'
-modified: '2020-09-22T19:00:24.619Z'
+modified: '2020-09-22T19:34:46.190Z'
 ---
 
 # A critical analysis of self-supervision, or what we can learn from a single image
