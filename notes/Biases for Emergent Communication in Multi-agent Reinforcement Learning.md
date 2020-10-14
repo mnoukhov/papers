@@ -2,7 +2,7 @@
 tags: [emergent]
 title: Biases for Emergent Communication in Multi-agent Reinforcement Learning
 created: '2020-06-11T16:23:40.601Z'
-modified: '2020-06-17T19:39:54.825Z'
+modified: '2020-10-09T07:20:29.891Z'
 ---
 
 # Biases for Emergent Communication in Multi-agent Reinforcement Learning
@@ -22,14 +22,11 @@ modified: '2020-06-17T19:39:54.825Z'
 [paper link](https://papers.nips.cc/paper/9470-biases-for-emergent-communication-in-multi-agent-reinforcement-learning)
 
 ```
-@incollection{Eccles2019Biases,
-  title = {Biases for Emergent Communication in Multi-agent Reinforcement Learning},
-  author = {Eccles, Tom and Bachrach, Yoram and Lever, Guy and Lazaridou, Angeliki and Graepel, Thore},
-  booktitle = {NeurIPS},
-  editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
-  pages = {13111--13121},
-  year = {2019},
-  publisher = {Curran Associates, Inc.},
-  url = {http://papers.nips.cc/paper/9470-biases-for-emergent-communication-in-multi-agent-reinforcement-learning.pdf}
+@inproceedings{eccles2019-communication9,
+    author = {Tom Eccles, Yoram Bachrach, Guy Lever, Angeliki Lazaridou and Thore Graepel},
+    title = {Biases for Emergent Communication in Multi-agent Reinforcement Learning},
+    year = {2019},
+    booktitle = {NeurIPS 2019 : Thirty-third Conference on Neural Information Processing Systems},
+    pages = {13111-13121}
 }
 ```

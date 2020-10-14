@@ -3,7 +3,7 @@ attachments: [Clipboard_2020-09-23-20-47-31.png, Clipboard_2020-09-23-21-06-57.p
 tags: [self-supervised]
 title: Contrastive Multiview Coding
 created: '2020-09-24T00:34:01.498Z'
-modified: '2020-09-24T18:30:29.990Z'
+modified: '2020-09-25T00:22:32.990Z'
 ---
 
 # Contrastive Multiview Coding
@@ -69,6 +69,13 @@ mutual information experiments
 - with image patches close has high MI, far has low MI. Highest acc in the middle
 - with different color spaces, lowest MI provides highest accuracy
 - MI does not necessarily help selecting views
+
+## discussion
+
+What makes for good views for contrastive learning (Tian et al, 2020?)
+- data augmentation makes a big improvement
+- you want views that provide an invariance useful for your downstream task
+- view generator to make best view for downstream task
 
 
 ## citation

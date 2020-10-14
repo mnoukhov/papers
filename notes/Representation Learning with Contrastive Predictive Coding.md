@@ -3,7 +3,7 @@ attachments: [Clipboard_2020-09-23-12-25-08.png, Clipboard_2020-09-23-17-40-53.p
 tags: [self-supervised]
 title: Representation Learning with Contrastive Predictive Coding
 created: '2020-09-22T19:35:03.261Z'
-modified: '2020-09-23T23:54:54.630Z'
+modified: '2020-09-24T23:06:09.563Z'
 ---
 
 # Representation Learning with Contrastive Predictive Coding
@@ -59,6 +59,12 @@ SSL vision on ImageNet
 results
 - huge 9% top-1 improvement
 - pretty apples-to-apples comparison against other SSL tasks using ResNet101v2
+
+CPCv2 has certain improvements
+- patches in all directions
+- lots of data augmentation (e.g. spatial and color jitter)
+- 8% top-1 improvement
+- data-efficiency improvement from CPC
 
 ### NLP
 
