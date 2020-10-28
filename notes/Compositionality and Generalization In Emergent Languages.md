@@ -2,10 +2,19 @@
 tags: [emergent]
 title: Compositionality and Generalization In Emergent Languages
 created: '2020-10-09T17:13:29.483Z'
-modified: '2020-10-09T17:20:10.887Z'
+modified: '2020-10-21T18:33:57.186Z'
 ---
 
 # Compositionality and Generalization In Emergent Languages
+
+## overview
+
+- two new measures of compositionality for generalization
+  - bag of symbols disentanglement
+  - position disentanglement
+- generalization happens when input space is sufficiently large 
+- compositionality isn't necessary for generalization but sufficient
+- compositionality is more easily learnable
 
 ## citation
 
