@@ -1,8 +1,9 @@
 ---
-attachments: [electra_pre_training_text_encoders_as_discriminators_rather_than_generators.pdf]
+attachments: [Clipboard_2020-10-29-13-50-17.png, electra_pre_training_text_encoders_as_discriminators_rather_than_generators.pdf]
+tags: [nlp, self-supervised]
 title: 'ELECTRA: Pretraining Text Encoders as Discriminators rather than Generators'
 created: '2020-03-28T19:06:50.114Z'
-modified: '2020-03-28T21:58:45.968Z'
+modified: '2020-10-29T17:50:17.728Z'
 ---
 
 # ELECTRA: Pretraining Text Encoders as Discriminators rather than Generators
@@ -14,6 +15,8 @@ modified: '2020-03-28T21:58:45.968Z'
 - more efficient than XLNet, RoBERTa and matches performance
 
 ## method
+
+![](@attachment/Clipboard_2020-10-29-13-50-17.png)
 
 ### models and training
 a random mask `m` is generated for input `x`
