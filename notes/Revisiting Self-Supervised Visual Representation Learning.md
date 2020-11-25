@@ -2,7 +2,7 @@
 tags: [self-supervised, vision]
 title: Revisiting Self-Supervised Visual Representation Learning
 created: '2020-09-10T22:09:54.768Z'
-modified: '2020-09-11T00:25:15.970Z'
+modified: '2020-11-17T03:53:16.860Z'
 ---
 
 # Revisiting Self-Supervised Visual Representation Learning
@@ -26,7 +26,7 @@ tasks
 - [rotation](@note/Unsupervised Representation Learning by Predicting Image Rotations)
 - [exemplar](@note/Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks)
 - [relative patch](@note/Unsupervised Visual Representation Learning by Context Prediction)
-- jigsaw
+- [jigsaw](@note/Unsupervised learning of visual representations by solving jigsaw puzzles)
 
 datasets
 - Imagenet
